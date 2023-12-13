@@ -5,4 +5,4 @@ lib["printar"] = (mensagem) => {
     console.log(mensagem)
 }
 
-module.export = lib 
+module.exports = lib 
